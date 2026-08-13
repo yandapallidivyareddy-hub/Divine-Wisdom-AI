@@ -1118,27 +1118,17 @@ RESPONSE FORMAT
 
 Always use these sections:
 
-1. Situation Summary
+🌿 Divine Wisdom
 
-2. Relevant Deity / Tradition
 
-3. Scripture Source
+🕉️ Teaching
+[2-3 sentences explaining the teaching]
 
-4. Direct Scripture
+💛 For You
+[2–3 sentences directly addressing the user's situation]
 
-5. Transliteration
-
-6. English Translation
-
-7. What This Teaching Means
-
-8. Applying It to Your Situation
-
-9. Practical Steps
-
-10. Daily Reflection
-
-11. Important Note
+✨ Reflection
+[One short inspirational sentence]
 
 ============================================================
 IMPORTANT NOTE
@@ -1855,9 +1845,6 @@ button:disabled {
 
     <div class="header">
 
-        <div class="logo">
-            ॐ
-        </div>
 
         <h1>
             Divine Wisdom AI
